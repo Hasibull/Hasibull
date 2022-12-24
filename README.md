@@ -1,4 +1,4 @@
-## **Kudos!** 🥇 You got me! 👽
+# **Kudos!** 🥇 You got me! <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px>
 
 <br>
 
@@ -18,9 +18,5 @@
 
 </a>
 </div>
-
-![GitHub metrics](https://metrics.lecoq.io/Hasibull)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Hasibull)
 
 ![Profile views](https://gpvc.arturio.dev/Hasibull)
