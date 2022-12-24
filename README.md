@@ -1,8 +1,8 @@
 ## **Kudos!** 🥇 You got me! 👽
 
-- 💻 *I’m currently working on Data Science Research Project*
-- 👯 *I’m looking to collaborate on Data Science, Machine learning related project*
-- 📧 *How to reach me: **hasibul.sbn@gmail.com***
+- 💻 **_I’m currently working on Data Science Research Project_**
+- 👯 **_I’m looking to collaborate on Data Science, Machine learning related project_**
+- 📧 **_How to reach me: **hasibul.sbn@gmail.com**_**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasibull&show_icons=true&count_private=true)
 
