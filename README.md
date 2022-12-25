@@ -1,11 +1,10 @@
 <style>
-  .kd {
-    font-size: 30px;
-  }
+.big {font-size:32px}
 </style>
 
-<div> <b class="kd">Kudos! 🥇</b> <i class="got">You got me!</i> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></div>
+[Kudos! 🥇]{.big} You got me! <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></div>
 
+<br>
 <br>
 
 - 💻 **_I’m currently working on Data Science Research Project_**
