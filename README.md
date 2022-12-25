@@ -1,4 +1,4 @@
-# **Kudos!** 🥇 You got me! <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px>
+<div> <b style="font-size:22px">Kudos!</b> 🥇 You got me! <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></div>
 
 <br>
 
