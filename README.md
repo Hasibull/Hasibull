@@ -1,4 +1,10 @@
-<div> <b style="font-size:32px; font-weight: bolder;">Kudos!</b> 🥇 You got me! <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></div>
+<style>
+  .kd {
+    font-size: 30px;
+  }
+</style>
+
+<div> <b class="kd">Kudos! 🥇</b> <i class="got">You got me!</i> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></div>
 
 <br>
 
