@@ -1,10 +1,10 @@
-<div> <b style="font-size:22px">Kudos!</b> 🥇 You got me! <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></div>
+<div> <b style="font-size:32px; font-weight: bolder;">Kudos!</b> 🥇 You got me! <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></div>
 
 <br>
 
 - 💻 **_I’m currently working on Data Science Research Project_**
 - 👯 **_I’m looking to collaborate on Data Science, Machine learning related project_**
-- 📧 **\_How to reach me: **hasibul.sbn@gmail.com**\_**
+- 📧 **_How to reach me: **hasibul.sbn@gmail.com**_**
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
