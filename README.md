@@ -1,7 +1,6 @@
 # Kudos! 🥇 *You got me!* <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></div>
 
 <br>
-<br>
 
 - 💻 **_I’m currently working on Data Science Research Project_**
 - 👯 **_I’m looking to collaborate on Data Science, Machine learning related project_**
