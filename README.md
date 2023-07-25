@@ -6,7 +6,7 @@
 - 👯 **_I’m looking to collaborate on Data Science, Machine learning related project_**
 - 📧 **_How to reach me: **hasibul.sbn@gmail.com**_**
 
-<div style="display:flex; justify-content: space between;">
+<div style="display:flex; flex-direction: row; justify-content: space between;">
   <div>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
   </div>
