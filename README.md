@@ -8,13 +8,9 @@
 
 <div style="display:flex; flex-direction: row; justify-content: space between;">
   <div>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-  </div>
-  <div>
-    <b align="right"> <img src="https://komarev.com/ghpvc/?username=Hasibull&label=Profile%20views&color=0e75b6&style=flat" alt="Hasibull" /> </b>
+    <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> <img align="right" style="margin-top:15px;" src="https://komarev.com/ghpvc/?username=Hasibull&label=Profile%20views&color=0e75b6&style=flat" alt="Hasibull" /></h2>
   </div>
 </div>
-
 <div align="center">
 
 <a href="https://github.com/Hasibull/">
