@@ -6,9 +6,14 @@
 - 👯 **_I’m looking to collaborate on Data Science, Machine learning related project_**
 - 📧 **_How to reach me: **hasibul.sbn@gmail.com**_**
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> <b align="right"> <img src="https://komarev.com/ghpvc/?username=Hasibull&label=Profile%20views&color=0e75b6&style=flat" alt="Hasibull" /> </b>
-
-<br>
+<div style="display:flex; justify-content: space between;">
+  <div>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+  </div>
+  <div>
+    <b align="right"> <img src="https://komarev.com/ghpvc/?username=Hasibull&label=Profile%20views&color=0e75b6&style=flat" alt="Hasibull" /> </b>
+  </div>
+</div>
 
 <div align="center">
 
