@@ -2,8 +2,8 @@
 
 <br>
 
-- 💻 **_I’m currently working on Data Science Research Project_**
-- 👯 **_I’m looking to collaborate on Data Science, Machine learning related project_**
+- 💻 **_I’m currently working on a Data Science Research Project_**
+- 👯 **_I’m looking to collaborate on Data Science, Machine learning and web-app related project_**
 - 📧 **_How to reach me: **hasibul.sbn@gmail.com**_**
 
 <div style="display:flex; flex-direction: row; justify-content: space between;">
