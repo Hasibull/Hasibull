@@ -1,5 +1,5 @@
 # Kudos! 🥇 *You got me!* <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></div>
-<video src="https://drive.google.com/file/d/1AWOcEtWTo8eOysl3VKF2qCHEcvRkhw34/view?usp=sharing" autoplay loop></video>
+<img src="https://drive.google.com/file/d/1h8hTr8KsGnoGGvcXN4J9xn2sEdfXWeax/view?usp=sharing">
 <br>
 
 - 💻 **_I’m currently working on a Data Science Research Project_**
