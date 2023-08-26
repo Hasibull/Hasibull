@@ -1,14 +1,15 @@
-# Kudos! 🥇 *You got me!* <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></div>
-<img src="https://drive.google.com/file/d/1h8hTr8KsGnoGGvcXN4J9xn2sEdfXWeax/view?usp=sharing">
+# Kudos! 🥇 _You got me!_ <img src = "https://github.com/Hasibull/Hasibull/blob/main/assets/hacker.gif" width = 30px></div>
+
+<img src="https://github.com/Hasibull/Hasibull/blob/main/assets/Hasibull_cover.gif">
 <br>
 
 - 💻 **_I’m currently working on a Data Science Research Project_**
 - 👯 **_I’m looking to collaborate on Data Science, Machine learning and web-app related project_**
-- 📧 **_How to reach me: **hasibul.sbn@gmail.com**_**
+- 📧 **\_How to reach me: **hasibul.sbn@gmail.com**\_**
 
 <div style="display:flex; flex-direction: row; justify-content: space between;">
   <div>
-    <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> <img align="right" style="margin-top:15px;" src="https://komarev.com/ghpvc/?username=Hasibull&label=Profile%20views&color=0e75b6&style=flat" alt="Hasibull" /></h2>
+    <h2><img src="https://github.com/Hasibull/Hasibull/blob/main/assets/stats.gif" width="35"><b> Github Stats </b> <img align="right" style="margin-top:15px;" src="https://komarev.com/ghpvc/?username=Hasibull&label=Profile%20views&color=0e75b6&style=flat" alt="Hasibull" /></h2>
   </div>
 </div>
 <div align="center">
