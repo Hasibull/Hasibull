@@ -1,6 +1,8 @@
 # Kudos! 🥇 _You got me!_ <img src = "https://github.com/Hasibull/Hasibull/blob/main/assets/hacker.gif" width = 30px></div>
 
-<img src="https://github.com/Hasibull/Hasibull/blob/main/assets/Hasibull_cover.gif">
+<a href="https://github.com/Hasibull/">
+  <img src="https://github.com/Hasibull/Hasibull/blob/main/assets/Hasibull_cover.gif">
+</a>
 <br>
 
 - 💻 **_I’m currently working on a Data Science Research Project_**
