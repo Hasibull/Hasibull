@@ -5,8 +5,8 @@
 </a>
 <br>
 
-- 💻 **_I’m currently working on an Embedded sytem related project and a Data Science Research Project_**
-- 👯 **_I’m looking to collaborate on Low level programming, Data Science, Machine learning and web-app related project_**
+- 💻 **_Currently working as a R&D Engineer at [BDCOM](https://bdcom.cn/)_**
+- 👯 **_I’m looking to collaborate on Embedded, Cyber security, Data Science, and AI/ML related project or research_**
 - 📧 **\_How to reach me: **hasibul.sbn@gmail.com**\_**
 
 <div style="display:flex; flex-direction: row; justify-content: space between;">
